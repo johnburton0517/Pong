@@ -8,7 +8,7 @@
 * Player 1:
     Use Up and Down arrow keys
 * Player 2:
-    Use W and S arrow keys
+    Use W and S keys
 
 ![Start Screen](Images/StartScreen.PNG)
 
