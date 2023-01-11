@@ -1,3 +1,3 @@
 # Pong
 
-This is a simple Pong game with Pygame
+This is a simple Pong game made with Pygame
